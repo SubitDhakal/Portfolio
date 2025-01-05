@@ -1,6 +1,6 @@
 ---
 title: Senior Game Developer
-date: 2023 - 2024
+date: 2023 AD- 2023 AD (Nov)
 # url: http://atawajof.dz/vonilzor
 location: Kathmandu , Nepal
 org: Octagon Infotech

@@ -1,6 +1,6 @@
 ---
 title: Senior Game Developer
-date: 2024 - Present
+date: 2023 (Dec) - 2024 (Dec)
 url: https://www.linkedin.com/company/octagon-it-services-co
 location: Dubai , UAE
 org: Al Octagon IT Services Co LLC 

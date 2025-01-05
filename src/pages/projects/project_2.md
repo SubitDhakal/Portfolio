@@ -1,8 +1,8 @@
 ---
-title: Orange Carrom
-url: https://play.google.com/store/apps/details?id=app.ankaek.orangecarrom&hl=en_US
-tags: ["Unity" , "2D Board Game"]
-date: 2021
+title: Dartslive TV
+url: https://play.google.com/store/apps/details?id=com.dartslive.tv&hl=en_US
+tags: ["Unity" , "Video Streaming Application"]
+date: 2023
 ---
 
-I led the development of Orange Carrom Game, a 2D digital version of the classic board game. I developed the game mechanics, impelemented user interface, and integrated key features like animations to ensure an engaging and smooth player experience.
+I worked as the Lead Developer for DARTSLIVE TV, a video streaming platform offering darts content for all skill levels, from professional tournaments to intermediate games. Developed for a Japanese company, my role involved overseeing the technical development, leading the team, and ensuring high-quality streaming and a user-friendly experience.
