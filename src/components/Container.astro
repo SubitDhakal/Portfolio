@@ -10,7 +10,7 @@ const studies = await Astro.glob("../pages/studies/*.md");
 const certificates = await Astro.glob("../pages/certificates/*.md");
 const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
-const PDF = "/SubitDhakal_Resume.pdf";
+const PDF = "/SubitDhakal_CV.pdf";
 ---
 
 <div class="join join-vertical gap-1">
@@ -118,12 +118,12 @@ const PDF = "/SubitDhakal_Resume.pdf";
           <object data={PDF} type="application/pdf" width="100%"></object>
         </figure>
         <div class="card-body">
-          <h2 class="card-title">Resume</h2>
-          <p>View and download my resume by clicking on the button below</p>
+          <h2 class="card-title">Curriculum vitae</h2>
+          <p>View and download my CV by clicking on the button below</p>
           <div class="card-actions justify-end">
             <a target="_blank" href={PDF}>
               <button class="btn btn-outline">
-                <p>Download resume</p>
+                <p>Download CV</p>
                 <Icon name="carbon:document-pdf" class="w-6 h-6 ml-1" />
               </button>
             </a>
