@@ -1,14 +1,15 @@
 ---
-title: Senior Game Developer
-date: 2023 (Dec) - 2024 (Dec)
+title: Certified TOT trainer in Game Development and Design
+date:  2025 (March) - 2025 (June)
 url: https://www.linkedin.com/company/octagon-it-services-co
-location: Dubai , UAE
-org: Al Octagon IT Services Co LLC 
-tags: ["Slot Game Developer","Game Development", "Unity", "VR Game Developer" ]
+location: Gelephu , Bhutan
+org: Athang Private Limited 
+tags: ["Unity Developement Trainer","Lead Trainer", "Unity" ]
 ---
 
 
-- Senior Game Developer , worked on multiple games 2D, 3D , Board games.
-- Expertise in slot games development.
-- Played a pivotal role in numerous tasks like in-app update of games.
-- Continuous collaboration with cliets requirements and meeting thier requirements.
+- Lead trainer in Unity Game Development in Gelephu, Bhutan, mentoring young
+  developers through hands-on, project-based learning.
+
+- Passionate about growing the local game dev scene through teaching, community
+  building, and mentorship

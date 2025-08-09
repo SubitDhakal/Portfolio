@@ -1,19 +1,14 @@
 ---
 title: Senior Game Developer
-date: 2023 AD- 2023 AD (Nov)
-# url: http://atawajof.dz/vonilzor
-location: Kathmandu , Nepal
-org: Octagon Infotech
-tags:
-  [
-    "Slot Game Developer" , "Casino Games" , "2D,3D Games"
-
-  ]
+date: 2023 (Dec) - 2024 (Dec)
+url: https://www.linkedin.com/company/octagon-it-services-co
+location: Dubai , UAE
+org: Al Octagon IT Services Co LLC 
+tags: ["Slot Game Developer","Game Development", "Unity", "VR Game Developer" ]
 ---
 
-- Designed and implemented slot game mechanics and features, ensuring a smooth and engaging user experience.
-- Created a robust in-game chat system for player interaction, enhancing player engagement and community building.
-- Developed a fully functional Blackjack game, including game logic, card dealing mechanics, and player interface.
-- Designed and developed various 2D games, focusing on gameplay mechanics, animation, and UI/UX design.
-- Developed multiple hyper-casual games, ensuring easy-to-learn mechanics and addictive gameplay loops.
-- Integrated game logic with backend systems for real-time data processing and multiplayer functionality.
+
+- Senior Game Developer , worked on multiple games 2D, 3D , Board games.
+- Expertise in slot games development.
+- Played a pivotal role in numerous tasks like in-app update of games.
+- Continuous collaboration with cliets requirements and meeting thier requirements.
