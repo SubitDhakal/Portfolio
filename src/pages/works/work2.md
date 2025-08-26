@@ -1,6 +1,6 @@
 ---
 title: Senior Game Developer
-date: 2023 (Dec) - 2024 (Dec)
+date: Apr 2023 AD - Mar 2025 AD
 url: https://www.linkedin.com/company/octagon-it-services-co
 location: Dubai , UAE
 org: Al Octagon IT Services Co LLC 
@@ -12,3 +12,5 @@ tags: ["Slot Game Developer","Game Development", "Unity", "VR Game Developer" ]
 - Expertise in slot games development.
 - Played a pivotal role in numerous tasks like in-app update of games.
 - Continuous collaboration with cliets requirements and meeting thier requirements.
+- Designed and developed various 2D games, focusing on gameplay mechanics, animation, and UI/UX design.
+- Integrated game logic with backend systems for real-time data processing and multiplayer functionality.

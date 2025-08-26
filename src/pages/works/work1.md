@@ -1,6 +1,6 @@
 ---
 title: Certified TOT trainer in Game Development and Design
-date:  2025 (March) - 2025 (June)
+date:  Mar 2025 AD - Jun 2025 AD
 url: https://www.linkedin.com/company/athang/
 location: Gelephu , Bhutan
 org: Athang Private Limited 
