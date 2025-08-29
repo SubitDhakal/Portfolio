@@ -1,16 +1,17 @@
 ---
 title: Game Developer
-date: Oct 2020 AD - Nov 2021 AD
-url: https://www.ankaek.com/
+date: Nov 2021 AD - Mar 2023 AD
+url: https://www.paracosma.com/
 location: Kathmandu , Nepal
-org: anka Ek 
+org: Paracosma Nepal Pvt Ltd.
 tags:
   [
-    "2D Game Developer" ,  "Board Games", "Unity Games" 
+    "VR Game Developer" ,  "VR Simulations", "Unity Games" , "2D,3D Games" , "Roblox"
 
   ]
 ---
-- Designed and developed 2D board games, such as Orange Carrom and Orange Ludo, focusing on intuitive game mechanics, user interface, and engaging gameplay experiences.
-- Created interactive and visually appealing game features for traditional board games, ensuring smooth gameplay flow and rule implementation.
-- Focused on optimizing the performance of the game logic, ensuring that both Orange Carrom and Orange Ludo offered smooth, real-time multiplayer experiences.
-- Collaborated with artists and UI/UX designers to create visually appealing assets and intuitive controls for a seamless player experience.
+- Worked on Paracosma Nepal Pvt Ltd which is wholly owned subsidiary of Paracosma Inc. based in California , USA.
+- Developed and designed immersive VR games, simulations, and training applications, ensuring optimal user experiences across various VR platforms (e.g., Oculus).
+- Led the development of VR training modules for industries like healthcare, manufacturing, or education, improving learning outcomes through interactive and engaging experiences.
+- Led the development of video streaming application.
+- Worked within Roblox’s development environment.
