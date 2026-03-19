@@ -1,17 +1,15 @@
 ---
 title: Game Developer
-date: Nov 2021 AD - Mar 2023 AD
-url: https://www.paracosma.com/
-location: Kathmandu , Nepal
-org: Paracosma Nepal Pvt Ltd.
-tags:
-  [
-    "VR Game Developer" ,  "VR Simulations", "Unity Games" , "2D,3D Games" , "Roblox"
-
-  ]
+date: Apr 2023 AD - Dec 2023 AD
+url: https://www.linkedin.com/company/octagon-it-services-co
+location: Kathmandu, Nepal
+org:  Octagon Infotech 
+tags: ["Unreal Game Engine", "Slot Game Developer","Game Development", "Unity", "VR Game Developer" ]
 ---
-- Worked on Paracosma Nepal Pvt Ltd which is wholly owned subsidiary of Paracosma Inc. based in California , USA.
-- Developed and designed immersive VR games, simulations, and training applications, ensuring optimal user experiences across various VR platforms (e.g., Oculus).
-- Led the development of VR training modules for industries like healthcare, manufacturing, or education, improving learning outcomes through interactive and engaging experiences.
-- Led the development of video streaming application.
-- Worked within Roblox’s development environment.
+
+- Designed and implemented 3D Unreal Engine game Projects basically eCommerce
+  store project.
+- Designed and implemented slot game mechanics and features, ensuring a smooth
+  and engaging user experience.
+- Developed multiple hyper-casual games, ensuring easy-to-learn mechanics and
+  addictive gameplay loops
